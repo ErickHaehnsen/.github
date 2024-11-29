@@ -18,7 +18,7 @@
 
 3. **Gestion centralisée pour les organisations**
 
-AIpress24 offre une interface complète pour gérer l’identité médiatique d’une organisation :
+   AIpress24 offre une interface complète pour gérer l’identité médiatique d’une organisation :
    - Création d’une page officielle consolidant les informations essentielles (activités, métiers, coordonnées des responsables communication).
    - Suivi des publications et des interactions avec les journalistes.
    - Gestion des abonnements, consommations éditoriales, et facturation.
@@ -66,8 +66,13 @@ Aipress24 simplifie, accélère et professionnalise les relations entre les diff
 - Répondre efficacement aux besoins des journalistes en quête d’expertise.
 - Centraliser et structurer les activités de communication à travers une plateforme unique.
 
+## Un projet open source
+
+Aipress24 est un projet open source qui repose sur une architecture moderne, flexible et collaborative, développée pour répondre aux besoins spécifiques des médias et des professionnels de la communication. En tant que plateforme open source, elle offre une transparence totale sur son fonctionnement, permettant aux utilisateurs et développeurs de vérifier, modifier et améliorer le code selon leurs besoins. Cette approche favorise l’innovation et garantit une indépendance technologique aux organisations qui souhaitent l’adopter. En s’appuyant sur des standards ouverts et des technologies éprouvées (Python, PostgreSQL, Redis...), Aipress24 offre une base solide pour bâtir des solutions personnalisées tout en promouvant la collaboration entre les acteurs du secteur de la presse et des media.
+
+
 ## Agence TCA : 30 Ans d’Expertise en Journalisme
 
 Aipress24 est un projet de l'agence **TechnoChroniqueurs Associés (TCA)**.
 
-Créée en 1991, **TechnoChroniqueurs Associés (TCA)** est une agence de presse indépendante spécialisée dans l’innovation, l’économie et le management. Avec plus de **30 000 articles publiés** dans des titres variés (*Les Echos, Le Moniteur, Infoprotection.fr*), TCA se distingue par son expertise critique et sa capacité à décrypter les transformations sociétales et technologiques.
+Créée en 1991, TCA est une agence de presse indépendante spécialisée dans l’innovation, l’économie et le management. Avec plus de **30 000 articles publiés** dans des titres variés (*Les Echos, Le Moniteur, Infoprotection.fr*), TCA se distingue par son expertise critique et sa capacité à décrypter les transformations sociétales et technologiques.
